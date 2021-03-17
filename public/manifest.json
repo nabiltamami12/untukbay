@@ -1,0 +1,21 @@
+{
+ "name": "Nama Situs",
+ "short_name": "Nama Pendek Situs",
+ "description": "Deskripsi Singkat Situs",
+ "lang": "en-US",
+ "dir": "ltr",
+ "theme_color": "#414f57",
+ "start_url": ".",
+ "background_color": "#000",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "icons": [{
+   "src": "images/icons/72x72.png",
+   "sizes": "72x72",
+   "type": "image/png"
+  }, {
+   "src": "images/icons/512x512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }]
+}
